@@ -1,8 +1,8 @@
 header{
-  background-color:blue;
   position: relative;
 }
 #main-navbar ul {
+  background-color:blue;
   list-style-type: none;
   padding: 0;
   margin: 0;
